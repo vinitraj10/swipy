@@ -1,14 +1,11 @@
-function eventFire(el, etype) {
-  if (el.fireEvent) {
-    el.fireEvent("on" + etype);
-  } else {
-    var evObj = document.createEvent("Events");
-    evObj.initEvent(etype, true, false);
-    el.dispatchEvent(evObj);
-  }
-}
-undefined;
-x = document.querySelector('[data-qa-role="encounters-action-like"]');
+# Disclaimer
 
-y = document.querySelector('[data-qa-role="encounters-action-dislike"]');
-eventFire(y, "click");
+This is just for fun and please don't get offended folks, i am just trying out my skills :p
+
+## Intro
+
+Tired of swiping game, here comes swipy which helps you to swipe profiles on bumble given some respective filters. if you are bored swiping right/left this might help you and have fun. while you are doing your work and being productive. swipy would do the job and your hands will be totally free :p
+
+## Setup
+
+WIP
