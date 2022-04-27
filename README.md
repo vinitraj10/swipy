@@ -10,7 +10,7 @@ Tired of swiping game, here comes swipy which helps you to swipe profiles on bum
 
 ## How it works ?
 
-Currently swipy is very specific as some common filter function is added but you can customize as per your own if you want. Basically it swipes 2000 profiles in a set once you would run the script at an interval of 4 seconds.
+Currently swipy is very specific as some common filter function is added but you can customize as per your own if you want. Basically it swipes max 50 profiles in a set once you would run the script at an interval of 4 seconds. if you have premium bumble account you could increase this count to anything what you want
 
 > This is very simple logic and too specific right now it can be customize based on the needs
 
